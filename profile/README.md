@@ -7,4 +7,4 @@ decide how to fund your shared needs:
 1. [Get started with Grants](https://github.com/gitcoinco/grants-round)
 2. [Get started with Passport](https://github.com/gitcoinco/passport)
 
-[Read More](../README.md)
+[Read More](https://github.com/gitcoinco/.github)
