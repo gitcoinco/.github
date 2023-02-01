@@ -31,13 +31,13 @@ It is used by communities to prevent Sybil attacks, spam, and bots. You can read
 more about Passport [here](https://go.gitcoin.co/blog/intro-to-passport) or
 watch an intro video [here](https://www.youtube.com/watch?v=UGYixVLwzrw).
 
-#### Official Docs and Quickstarts
+### Official Docs and Quickstarts
 
 - [Passport Documentation](https://docs.passport.gitcoin.co/)
 - [Creating Your Passport](https://docs.passport.gitcoin.co/gitcoin-guides/creating-your-passport)
 - [Passport SDK: Getting Started](https://docs.passport.gitcoin.co/gitcoin-passport-sdk/getting-started)
 
-##### Updates
+#### Updates
 
 Stay up to date with the latest information on Passports.
 
@@ -45,7 +45,7 @@ Stay up to date with the latest information on Passports.
 - [Twitter Account](https://twitter.com/gitcoinpassport)
 - [Official Blog](https://go.gitcoin.co/blog/tag/gitcoin-passport)
 
-##### Official Documentation
+#### Official Documentation
 
 These are the best places to get started working with Passports.
 
@@ -56,7 +56,7 @@ These are the best places to get started working with Passports.
 - [Integrating a new Stamp](https://docs.passport.gitcoin.co/gitcoin-passport-sdk/integrating-a-new-stamp)
 - [FAQ](https://docs.passport.gitcoin.co/gitcoin-guides/faq)
 
-##### Getting Started
+#### Getting Started
 
 Resources to help you get started building with Passports.
 
@@ -64,7 +64,7 @@ Resources to help you get started building with Passports.
 - [Introducing Passport (YouTube)](https://www.youtube.com/watch?v=OyGj10pQfLY)
 - [Beginners Guide To Developing With Gitcoin Passport](https://www.youtube.com/watch?v=MP4VnlcjDhk)
 
-##### Getting Involved
+#### Getting Involved
 
 Interested in getting involved? Join us in [Discord](https://gitcoin.co/discord)
 and look for the [🛠passport-builders
