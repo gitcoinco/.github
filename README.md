@@ -78,8 +78,13 @@ are rolling out a fully decentralized protocol for decentarlized capital allocat
 This protocol will give developers and communities the tools to fund their
 shared needs.
 
-You can check back here as we launch the protocol and a suite of tools for
-building on top of it.
+The protocol is actively being developed and subject to breaking changes. We'd welcome
+your voice an contribution in defining the protocol. These are the best places to
+get involved:
+
+- [Allo Protocol (Github)](https://github.com/allo-protocol)
+- [Protocol Contracts](https://github.com/allo-protocol/allo-contracts)
+- [Allo Improvement Process](https://github.com/allo-protocol/aips)
 
 ## Contributing to Gitcoin
 
